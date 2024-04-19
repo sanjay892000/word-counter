@@ -1,0 +1,39 @@
+/* body{
+  color: white;
+  background-color: darkslategray;
+} */
+.navbar{
+  background-color: rgb(21, 34, 34);
+  border-radius: 2px;
+ /*  border: 2px solid yellow; */
+
+ 
+}
+.navbar ul{
+  display: flex;
+  box-sizing: border-box;
+  overflow: none;
+
+}
+.navbar li{
+ 
+  
+  list-style-type: none;
+  margin: 8px;
+ 
+}
+.navbar li a{
+  text-decoration: none;
+  padding: 3px 3px;
+  color: rgb(122, 212, 240);
+}
+.navbar ul div{
+ float: right;
+  padding: 8px 44px;
+
+}
+.navbar input{
+  border: 2px solid rgb(245, 198, 198);
+  border-radius: 11px;
+ 
+}
